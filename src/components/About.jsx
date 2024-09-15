@@ -11,6 +11,7 @@ const About = () => {
             About
             <span className='text-neutral-500'> Me</span>
         </h1>
+        
         <div className="flex flex-wrap">
             <motion.div 
                 whileInView={{opacity:1, x:0}}
