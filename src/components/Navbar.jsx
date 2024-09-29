@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaLinkedin, FaGithub, FaInstagram, FaBars, FaTimes } from "react-icons/fa";
-import logo from "../assets/kevinRushLogo.png";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -9,9 +8,10 @@ const Navbar = () => {
   const links = [
     { id: 1, link: "Home" },
     { id: 2, link: "Education" },
-    { id: 3, link: "Experience" },
-    { id: 4, link: "Projects" },
-    { id: 5, link: "Contact" },
+    // { id: 3, link: "Skills" },
+    { id: 4, link: "Experience" },
+    { id: 5, link: "Projects" },
+    { id: 6, link: "Contact" },
   ];
 
   const scrollToSection = (sectionId) => {

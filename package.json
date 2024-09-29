@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist" 
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^11.5.4",
@@ -17,7 +17,8 @@
     "react-dom": "^18.3.1",
     "react-icons": "^5.3.0",
     "react-router-dom": "^6.26.2",
-    "react-scroll": "^1.9.0"
+    "react-scroll": "^1.9.0",
+    "tech-stack-icons": "^2.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
