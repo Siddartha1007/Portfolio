@@ -44,7 +44,7 @@ const SocialLinks = () => {
                 </>
             ),
             // href: '/Siddartha_resume.pdf',
-            href: 'https://github.com/Siddartha1007/Portfolio/blob/gh-pages/Siddartha_resume.pdf',
+            href: 'https://raw.githubusercontent.com/Siddartha1007/Portfolio/gh-pages/Siddartha_resume.pdf',
             style: 'rounded-br-md',
             download: true
         }
