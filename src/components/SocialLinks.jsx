@@ -43,7 +43,8 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/Siddartha_resume.pdf',
+            // href: '/Siddartha_resume.pdf',
+            href: 'https://github.com/Siddartha1007/Portfolio/blob/gh-pages/Siddartha_resume.pdf',
             style: 'rounded-br-md',
             download: true
         }
