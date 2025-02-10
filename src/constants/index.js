@@ -92,7 +92,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "1900 Fox Sterling Dr, North Carolina, 27606 ",
+  address: "Raleigh, NC, USA ",
   phoneNo: "+1 667-415-8734 ",
   email: "sgoruga@ncsu.edu",
 };
