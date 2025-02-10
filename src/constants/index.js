@@ -98,4 +98,5 @@ export const CONTACT = {
 };
 
 
+
 ["Built a full-stack web application to track daily expenses for effective budgeting and financial planning.", "Implemented application features include real time budget tracking, data visualisation, secure user authentication.", "Technologies used include HTML, CSS for frontend, NodeJS for API handling and MongoDB for database."]
