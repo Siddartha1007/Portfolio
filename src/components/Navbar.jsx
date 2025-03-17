@@ -29,7 +29,7 @@ const Navbar = () => {
       </div> */}
        <div className="flex items-center">
         {/* Stylized Text Logo */}
-        <h1 className="text-xl font-boldmx-2 w-10 cursor-pointer">SG</h1>
+        <h1 className="text-2xl font-boldmx-2 w-10 cursor-pointer">SG</h1>
       </div>
 
       <ul className="hidden md:flex">
