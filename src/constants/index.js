@@ -12,6 +12,16 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
+    year: "11/2024 - Present",
+    role: "Graduate Assistant",
+    company: "North Carolina State University",
+    description: 
+    ["Developed and optimized RESTful APIs using Node.js, enhancing scalability to support 2,000+ concurrent users and boosting data processing efficiency by 25%.", 
+    'Implemented Angular-based UI components with JavaScript and Material-UI, utilizing lazy loading, state management, and performance monitoring with Grafana for better performance and user experience.', 
+    'Contributed to open-source improvements, optimized SQL queries to accelerate data retrieval by 30%, and implemented Git-based version control with thorough code reviews to streamline code management.'],
+    technologies: ["Angular.js", "Javascript", "RESTful APIs", "Grafana", "SQL", "Git"],
+  },
+  {
     year: "07/2022 - 07/2023",
     role: "Software Developer Engineer",
     company: "Broadridge",
@@ -39,9 +49,9 @@ export const PROJECTS = [
     title: "Expenses tracker Web Application",
     image: project1,
     description:
-      ["Built a full-stack web application to track daily expenses for effective budgeting and financial planning.", 
-      "Implemented application features include real time budget tracking, data visualisation, secure user authentication.", 
-      "Technologies used include HTML, CSS for frontend, NodeJS for API handling and MongoDB for database."],
+      ["Built a full-stack web application using Javascript and Node.js to track expenses for budgeting and financial planning.", 
+      "Developed backend services in Node.js, focusing on API development, risk management by implementing secure auth.", 
+      "Tech used include HTML, CSS for frontend, Node.js for backend logic, and MongoDB hosted on Heroku."],
 
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     code: 'N'
@@ -50,9 +60,9 @@ export const PROJECTS = [
     title: "Full Stack Railway Ticketing System",
     image: project2,
     description:
-[     "Built a Ruby on Rails web application for railway ticket booking with features like user authentication, profile management, dynamic seat availability, rating-review system and a comprehensive admin dashboard.", 
-      "Implemented testing using the Spec framework achieving 90% coverage to ensure system reliability.", 
-      "Used Ruby on Rails for the backend functionality alongside React to enhance the user interface."],
+[     "Built a Ruby on Rails-based MVC web application for railway ticket booking, integrating React for a dynamic front-end, SQL for database management, and JavaScript with Websockets for real-time updates and interactive functionalities.", 
+      "Implemented testing using the Spec framework achieving 95% coverage to ensure reliability and stability of the system.", 
+      "Built key features such as user authentication, admin dashboard, and a rating system, improving user engagement."],
     href : ["https://github.ncsu.edu/sgoruga/CS517-Rail-Ticketing-System"],
     technologies: ["Ruby on Rails", "React", "MySQL"],
     code: 'Y'
@@ -72,9 +82,8 @@ export const PROJECTS = [
     title: "GitLab User Metrics Explorer with GraphQL",
     image: project4,
     description:
-      ["Developed a gitlab miner tool to extract user specific metrics and activities using GraphQl queries.", 
-      "Executed graphql queries to obtain detailed insights into user contributions on gitlab which include gists, issues, pull requests, repository discussions and overall repository contributions.", 
-      "Constructed an user-friendly user interface using React framework to effectively display extracted metrics."],
+      ["Developed a tool to extract user-specific metrics by executing GraphQL queries and utilizing JSON for data processing.", 
+      "Executed graphql queries to gather detailed insights into user contributions to gitlab which include gists, issues, pull requests, repository discussions and overall repository contributions enabling detailed analysis of performance metrics."],
     href: [ "https://github.ncsu.edu/sgoruga/G2371" ],
     technologies: ["GitLab", "GraphQL", "React"],
     code: 'Y'
@@ -93,7 +102,7 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Raleigh, NC, USA ",
-  phoneNo: "+1 667-415-8734 ",
+  phoneNo: "+1 (667) 415-8734 ",
   email: "sgoruga@ncsu.edu",
 };
 
