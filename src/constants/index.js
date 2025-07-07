@@ -51,7 +51,7 @@ export const PROJECTS = [
     description:
       ["Built a full-stack web application using Javascript and Node.js to track expenses for budgeting and financial planning.", 
       "Developed backend services in Node.js, focusing on API development, risk management by implementing secure auth.", 
-      "Integrated Tesseract.js to automate receipt scanning and text extrac9on using OCR technology, simplifying expense input."],
+      "Integrated Tesseract.js to automate receipt scanning and text extraction using OCR technology, simplifying expense input."],
 
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     code: 'N'
@@ -61,7 +61,7 @@ export const PROJECTS = [
     image: project2,
     description:
 [     "Built a Ruby on Rails-based MVC web application for railway ticket booking, integrating React for a dynamic front-end, SQL for database management, and JavaScript with Websockets for real-time updates and interactive functionalities.", 
-      "Implemented JWT-based authen9ca9on, and achieved 90% test coverage using BDD/TDD with RSpec.", 
+      "Implemented JWT-based authentication, and achieved 90% test coverage using BDD/TDD with RSpec.", 
       "Built key features such as user authentication, admin dashboard, and a rating system, improving user engagement."],
     href : ["https://github.ncsu.edu/sgoruga/CS517-Rail-Ticketing-System"],
     technologies: ["Ruby on Rails", "React", "MySQL", "MVC"],
@@ -83,7 +83,7 @@ export const PROJECTS = [
     image: project4,
     description:
       ["Developed a tool to extract user-specific metrics by executing GraphQL queries and utilizing JSON for data processing.", 
-      "Integrated LLaMA 3.1 to turn structured JSON data from GitHub and GitLab into clear, natural-language summaries, making user contribu9ons easy to understand.",
+      "Integrated LLaMA 3.1 to turn structured JSON data from GitHub and GitLab into clear, natural-language summaries, making user contributions easy to understand.",
       "Executed graphql queries to gather detailed insights into user contributions to gitlab which include gists, issues, pull requests, repository discussions and overall repository contributions enabling detailed analysis of performance metrics."],
     href: [ "https://github.ncsu.edu/sgoruga/G2371" ],
     technologies: ["GitLab", "GraphQL", "React", "Json"],
