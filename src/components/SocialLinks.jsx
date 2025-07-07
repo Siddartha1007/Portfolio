@@ -45,7 +45,7 @@ const SocialLinks = () => {
             ),
             // href: '/Siddartha_resume.pdf',
             // href: 'https://raw.githubusercontent.com/Siddartha1007/Portfolio/gh-pages/Siddartha_resume.pdf',
-            href: 'https://drive.google.com/file/d/1wp4POxWAEvt3y9JywzqHM__ufjc1uFtA/view?usp=sharing',
+            href: 'https://drive.google.com/file/d/12ec67PB94x4G1x08GQs3WUl6mj1e6Yn4/view?usp=sharing',
             style: 'rounded-br-md',
             download: true
         }
