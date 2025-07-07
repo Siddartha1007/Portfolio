@@ -51,7 +51,7 @@ export const PROJECTS = [
     description:
       ["Built a full-stack web application using Javascript and Node.js to track expenses for budgeting and financial planning.", 
       "Developed backend services in Node.js, focusing on API development, risk management by implementing secure auth.", 
-      "Integrated Tesseract.js to automate receipt scanning and text extraction using OCR technology, simplifying expense input."],
+      "Integrated Tesseract.js to automate receipt scanning and text extraction using OCR technology, simplifying expense input"],
 
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     code: 'N'
